@@ -16,15 +16,15 @@ Finish product is of the size of a Galaxy S6, uses ~70mAH when idleing and cas b
 
 ### Bootup Screen
 
-![CJmarkII-Bootup]https://raw.githubusercontent.com/cjbrigato/proxmark-cjmark-designs/master/cjmarkII/cjmarkII-bootup.png
+![CJmarkII-Bootup](https://raw.githubusercontent.com/cjbrigato/proxmark-cjmark-designs/master/cjmarkII/cjmarkII-bootup.png)
 
 ### Design
 
-![Design1_1]https://raw.githubusercontent.com/cjbrigato/proxmark-cjmark-designs/master/cjmarkII/_DSC6666.jpg
+![Design1_1](https://raw.githubusercontent.com/cjbrigato/proxmark-cjmark-designs/master/cjmarkII/_DSC6666.jpg)
 
-![Design1_2]https://raw.githubusercontent.com/cjbrigato/proxmark-cjmark-designs/master/cjmarkII/_DSC6669.jpg
+![Design1_2](https://raw.githubusercontent.com/cjbrigato/proxmark-cjmark-designs/master/cjmarkII/_DSC6669.jpg)
 
-![Design1_3]https://raw.githubusercontent.com/cjbrigato/proxmark-cjmark-designs/master/cjmarkII/_DSC6676.jpg
+![Design1_3](https://raw.githubusercontent.com/cjbrigato/proxmark-cjmark-designs/master/cjmarkII/_DSC6676.jpg)
 
 ## Other Designs
 
